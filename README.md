@@ -27,6 +27,6 @@ The crux here of course is that I have no idea what I'm doing. One such connecti
 
 Gonna see if I can maybe have them more spaced out; or if that doesn't work, maybe use vibration motors instead...
 
-![img_0172 jpg](https://cloud.githubusercontent.com/assets/34791/19842635/0bde4634-9ed8-11e6-8ad3-8e1afc0937d3.jpeg)
+![9dc585d8-57f5-46bc-b72a-f2b93dcb368a](https://cloud.githubusercontent.com/assets/34791/19842884/5df219bc-9eda-11e6-9f16-8c9023bd18ff.JPG)
 ![img_0169 jpg](https://cloud.githubusercontent.com/assets/34791/19842636/0be0825a-9ed8-11e6-96b6-9733080a1f49.jpeg)
 
