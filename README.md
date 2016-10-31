@@ -26,3 +26,7 @@ Ok so the first idea came to me as I was playing with the EL Sequencer board for
 The crux here of course is that I have no idea what I'm doing. One such connection to my skin worked fine, but when I attached all of them, they interacted even when all channels were off, giving me a constant eletric tingling across my skin. Yeahhh maybe let's not.
 
 Gonna see if I can maybe have them more spaced out; or if that doesn't work, maybe use vibration motors instead...
+
+![img_0172 jpg](https://cloud.githubusercontent.com/assets/34791/19842635/0bde4634-9ed8-11e6-8ad3-8e1afc0937d3.jpeg)
+![img_0169 jpg](https://cloud.githubusercontent.com/assets/34791/19842636/0be0825a-9ed8-11e6-96b6-9733080a1f49.jpeg)
+
